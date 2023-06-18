@@ -1,3 +1,3 @@
 class div {
-    
+    m
 }
